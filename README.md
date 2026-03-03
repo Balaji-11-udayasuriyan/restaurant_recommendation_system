@@ -176,7 +176,7 @@ Developed a modular Restaurant Recommendation System using TF-IDF vectorization 
 
 ## 👨‍💻 Author
 
-Balaji U
+Balaji U  
 Software Engineer (Backend) | Python | Scalable APIs | FastAPI | PostgreSQL | AI Integration
 
 ---
